@@ -3,8 +3,8 @@ import datetime
 
 
 def get_trending_repositories():
-    trending_repos = requests.get(url).json()
-    return trending_repos
+    trending_repos = requests.get(url, params=set_of_settings)
+    return trending_repos.json()
 
 
 def get_open_issues_amount(trending_repos):
@@ -19,6 +19,7 @@ def get_open_issues_amount(trending_repos):
 if __name__ == '__main__':
     today = datetime.date.today()
     week_ago = today - datetime.timedelta(days=7)
-    url = 'https://api.github.com/search/repositories?q=created:>=' + str(
-        week_ago) + '&sort=stars&order=desc&page=1&per_page=20'
+    url = 'https://api.github.com/search/repositories'
+    #помогите, пожалуйста, с 'created' на след строчке! должно получиться "created:>=date", у меня никак не выходит
+    set_of_settings = (('created:>{}'.format(str(week_ago)), str(week_ago)), ("sort", "stars"), ("order", "desc"), ("page", "1"), ("per_page", "20"))
     print(get_open_issues_amount(get_trending_repositories()))
