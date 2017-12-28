@@ -14,26 +14,26 @@ $ python github_trending.py
 
 output
 ```
-CaptuocrToy - [3, 'https://github.com/gragrance/CaptuocrToy']
-conduit - [14, 'https://github.com/runconduit/conduit']
-DoYouEvenLearn - [0, 'https://github.com/BAILOOL/DoYouEvenLearn']
-exposed - [3, 'https://github.com/android-hacker/exposed']
-grow-to-express - [2, 'https://github.com/sunkuo/grow-to-express']
-Hyperion-iOS - [3, 'https://github.com/willowtreeapps/Hyperion-iOS']
-Kurukuru - [0, 'https://github.com/mayuki/Kurukuru']
-misocoin - [3, 'https://github.com/kendricktan/misocoin']
-pix2pixHD - [0, 'https://github.com/NVIDIA/pix2pixHD']
-Raspberry-Pi - [0, 'https://github.com/wtsxDev/Raspberry-Pi']
-react-native-typography - [2, 'https://github.com/hectahertz/react-native-typography']
-rfcs - [2, 'https://github.com/reactjs/rfcs']
-rocket_wasm - [2, 'https://github.com/aochagavia/rocket_wasm']
-sekey - [6, 'https://github.com/ntrippar/sekey']
-sentiment-discovery - [3, 'https://github.com/NVIDIA/sentiment-discovery']
-slurp - [2, 'https://github.com/bbb31/slurp']
-TimelineCards - [1, 'https://github.com/vladaverin24/TimelineCards']
-unistore - [12, 'https://github.com/developit/unistore']
-vim-pizza - [1, 'https://github.com/arithran/vim-pizza']
-XLearning - [3, 'https://github.com/Qihoo360/XLearning']
+User name -  ubisoftinc; Repository name -  massgate; Number of issues -  2
+User name -  pluosi; Repository name -  app-host; Number of issues -  2
+User name -  wangdoc; Repository name -  javascript-tutorial; Number of issues -  2
+User name -  sdras; Repository name -  array-explorer; Number of issues -  2
+User name -  Cryptogenic; Repository name -  PS4-4.05-Kernel-Exploit; Number of issues -  2
+User name -  codrops; Repository name -  CSSGlitchEffect; Number of issues -  2
+User name -  JakeWharton; Repository name -  retrofit2-kotlin-coroutines-adapter; Number of issues -  2
+User name -  romainguy; Repository name -  kotlin-math; Number of issues -  2
+User name -  mattdesl; Repository name -  shader-reload; Number of issues -  2
+User name -  lizhichao; Repository name -  VicWord; Number of issues -  2
+User name -  ruiminshen; Repository name -  yolo2-pytorch; Number of issues -  2
+User name -  LiuXiaolong19920720; Repository name -  Add-Christmas-Hat; Number of issues -  2
+User name -  JasonLiTW; Repository name -  simple-railway-captcha-solver; Number of issues -  2
+User name -  WeiChiaChang; Repository name -  domain-cli; Number of issues -  2
+User name -  toyakula; Repository name -  luna; Number of issues -  2
+User name -  saitei; Repository name -  crypto-sheets; Number of issues -  2
+User name -  jingweno; Repository name -  spotctl; Number of issues -  2
+User name -  BobEve; Repository name -  Eve; Number of issues -  2
+User name -  threepointone; Repository name -  bs-nice; Number of issues -  2
+User name -  b3log; Repository name -  baidu-netdisk-high-speed; Number of issues -  2
 ```
 Running on Windows is similar.
 
